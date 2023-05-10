@@ -1,0 +1,8 @@
+{
+  "repo":{
+    "name":"lgp-myrepo",
+    "url" : "https://github.com/maisoehn/lgp_green_factory",
+    "username": "maiconsoehn@hotmail.com",
+    "password":"A2b1C3d4-AA"
+  }
+}
